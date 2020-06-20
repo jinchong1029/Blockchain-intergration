@@ -1,0 +1,22 @@
+[10-Jun-2020 00:33:27 America/New_York] PHP Notice:  Undefined index: secret in /home/bligeoyh/public_html/inc/test.php on line 43
+[10-Jun-2020 00:33:27 America/New_York] PHP Notice:  Undefined variable: secret in /home/bligeoyh/public_html/inc/test.php on line 43
+[10-Jun-2020 00:33:58 America/New_York] PHP Notice:  Undefined index: secret in /home/bligeoyh/public_html/inc/test.php on line 43
+[10-Jun-2020 00:33:58 America/New_York] PHP Notice:  Undefined variable: secret in /home/bligeoyh/public_html/inc/test.php on line 43
+[10-Jun-2020 00:35:47 America/New_York] PHP Notice:  Undefined index: secret in /home/bligeoyh/public_html/inc/test.php on line 43
+[10-Jun-2020 00:35:47 America/New_York] PHP Notice:  Undefined variable: secret in /home/bligeoyh/public_html/inc/test.php on line 43
+[10-Jun-2020 01:00:43 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant 'n' in /home/bligeoyh/public_html/inc/test.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/bligeoyh/public_html/inc/test.php on line 31
+[10-Jun-2020 01:01:23 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant 'n' in /home/bligeoyh/public_html/inc/test.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/bligeoyh/public_html/inc/test.php on line 31
+[10-Jun-2020 01:01:37 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant 'n' in /home/bligeoyh/public_html/inc/test.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/bligeoyh/public_html/inc/test.php on line 31
+[10-Jun-2020 01:01:57 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant 'n' in /home/bligeoyh/public_html/inc/test.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/bligeoyh/public_html/inc/test.php on line 31
